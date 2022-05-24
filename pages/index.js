@@ -21,9 +21,9 @@ export default function Home() {
     className={styles.bgimg}
 />   
       <main className={styles.main}>
-        <h2 className={styles.title}>
+        <h1 className={styles.title}>
           Hey There! <a href="">It&apos;s Harsh Prasad!</a>
-        </h2>
+        </h1>
 
         <p className={styles.description}>
           <Link href="/skills"><a className={styles.code}>My Skills</a></Link>
